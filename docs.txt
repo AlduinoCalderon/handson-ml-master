@@ -1,0 +1,22 @@
+Develop
+Follow these instructions for the third stage of your project:
+1. Manage branches, resolve conflicts, and revert changes in GitHub. Complete the following tasks:
+
+Create branch "A" from "Master"
+
+Create a docs.txt file in branch "A"
+
+Create a Pull Request (PR) for branch "A" (do not approve it yet)
+
+Create branch "B" from "Master"
+
+Create a different docs.txt file in branch "B"
+
+Create a Pull Request (PR) for branch "B" (do not approve it yet)
+Also:
+
+Resolve conflicts between the branches
+
+Revert changes using Git commands
+
+Approve both PRs in GitHub and merge the branches
