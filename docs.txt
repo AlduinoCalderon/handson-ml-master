@@ -1,0 +1,19 @@
+2. Take screenshots of the following:
+
+Creation of branch "A" from "Master"
+
+Creation of docs.txt in branch "A"
+
+PR created for branch "A"
+
+Creation of branch "B" from "Master"
+
+Creation of a different docs.txt in branch "B"
+
+PR created for branch "B"
+
+Conflict resolution process
+
+Git command used to revert changes
+
+Approved PRs and merged branches
